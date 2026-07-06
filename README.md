@@ -4,7 +4,7 @@
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that answers banking-related questions using a domain-specific knowledge base. The chatbot retrieves relevant information from banking documents and generates accurate, context-aware responses using Large Language Models (LLMs).
 
-📌 Project Overview
+**📌 Project Overview**
 
 Traditional LLMs may generate inaccurate or hallucinated answers when asked domain-specific questions. This project addresses that limitation by implementing a Retrieval-Augmented Generation (RAG) pipeline.
 
