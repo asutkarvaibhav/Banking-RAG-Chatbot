@@ -1,6 +1,6 @@
 # Banking-RAG-Chatbot
 
-🏦 Banking RAG Chatbot
+**🏦 Banking RAG Chatbot**
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that answers banking-related questions using a domain-specific knowledge base. The chatbot retrieves relevant information from banking documents and generates accurate, context-aware responses using Large Language Models (LLMs).
 
