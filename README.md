@@ -14,19 +14,19 @@ This project demonstrates the practical application of Generative AI, Vector Dat
 
 **🛠️ Tech Stack** 
 * Python
-LangChain
-Hugging Face Transformers
-Sentence Transformers
-FAISS
-Pandas
-Jupyter Notebook
+* LangChain
+* Hugging Face Transformers
+* Sentence Transformers
+* FAISS
+* Pandas
+* Jupyter Notebook
 
 **⚙️ RAG Workflow**
-Load the banking dataset.
-Clean and preprocess the text.
-Split documents into chunks.
-Generate vector embeddings.
-Store embeddings in a FAISS vector database.
-Retrieve the most relevant chunks based on the user's query.
-Pass the retrieved context to the LLM.
-Generate a context-aware answer.
+* Load the banking dataset.
+* Clean and preprocess the text.
+* Split documents into chunks.
+* Generate vector embeddings.
+* Store embeddings in a FAISS vector database.
+* Retrieve the most relevant chunks based on the user's query.
+* Pass the retrieved context to the LLM.
+* Generate a context-aware answer.
