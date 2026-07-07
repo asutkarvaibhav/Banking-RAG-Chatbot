@@ -11,3 +11,13 @@ Traditional LLMs may generate inaccurate or hallucinated answers when asked doma
 The chatbot first retrieves the most relevant banking information from a knowledge base and then uses an LLM to generate an informed response.
 
 This project demonstrates the practical application of Generative AI, Vector Databases, and Semantic Search in the banking domain.
+
+**⚙️ RAG Workflow**
+Load the banking dataset.
+Clean and preprocess the text.
+Split documents into chunks.
+Generate vector embeddings.
+Store embeddings in a FAISS vector database.
+Retrieve the most relevant chunks based on the user's query.
+Pass the retrieved context to the LLM.
+Generate a context-aware answer.
