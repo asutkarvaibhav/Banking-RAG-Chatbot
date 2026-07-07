@@ -12,6 +12,15 @@ The chatbot first retrieves the most relevant banking information from a knowled
 
 This project demonstrates the practical application of Generative AI, Vector Databases, and Semantic Search in the banking domain.
 
+**🛠️ Tech Stack**
+Python
+LangChain
+Hugging Face Transformers
+Sentence Transformers
+FAISS
+Pandas
+Jupyter Notebook
+
 **⚙️ RAG Workflow**
 Load the banking dataset.
 Clean and preprocess the text.
